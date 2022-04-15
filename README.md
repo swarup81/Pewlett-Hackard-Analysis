@@ -17,7 +17,7 @@ This project aims to derive a list of all retiring employees and their titles an
 <img width="207" alt="Screen Shot 2022-04-15 at 3 09 20 PM" src="https://user-images.githubusercontent.com/100738688/163622283-7edc690c-34e1-4d58-98af-2fe473f109ed.png">
 
 
-Summary: 
+# Summary: 
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
