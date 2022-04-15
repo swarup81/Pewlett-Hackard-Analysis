@@ -29,8 +29,7 @@ This project aims to derive a list of all retiring employees and their titles an
    
 # Two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-A table showing employees eligible for retirement soon based on the birth date between  Jan 1962 and Dec 1964 which provides insight into the upcoming silver tsunami.
-
+The plan is to be prepared and look out for 13,140 employees for the upcoming silver tsunami. The number represents the employees currently working at the company from 1985 to 1988, and their birth date is between 1962 and 1964 to be eligible to leave work. If they decide to go, the company should be ready to hire that number of people.
 
 <img width="206" alt="Screen Shot 2022-04-15 at 2 56 19 PM" src="https://user-images.githubusercontent.com/100738688/163618542-fecc92bf-a621-44e2-bbc0-e3793e60302f.png">
 
