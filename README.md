@@ -13,9 +13,11 @@ This project aims to derive a list of all retiring employees and their titles an
 Summary: 
 
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
            Based on the unique_titles table, they need to fill  25,916 senior engineers, 24,926 senior staff, 9285 engineers, 7636 staff, 3603 technique leads, 1090 Assistant Engineers, and two managers.
            
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
               There are not enough mentors to train the next generation. If the pewlett hackard attempts to fill vacancies with the 1549 eligible mentors, there would be a 46:1 mentor and mentee ratio, which the company has to find more mentors to balance out.
 
 # Two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
