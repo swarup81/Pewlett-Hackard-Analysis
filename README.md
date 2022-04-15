@@ -29,7 +29,8 @@ Summary:
 
 # Two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-The query can be written for employees whose birthday is between 1962 and 1964 eligible for retirement soon.
+A table showing employees are eligible for retirement soon.
+
 
 <img width="206" alt="Screen Shot 2022-04-15 at 2 56 19 PM" src="https://user-images.githubusercontent.com/100738688/163618542-fecc92bf-a621-44e2-bbc0-e3793e60302f.png">
 
