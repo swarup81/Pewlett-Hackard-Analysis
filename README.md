@@ -25,8 +25,8 @@ This project aims to derive a list of all retiring employees and their titles an
            
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-   There are not enough mentors to train the next generation. If the pewlett hackard attempts to fill vacancies with the 1549 eligible mentors, there would be a 46:1 mentor and mentee ratio, which the company has to find more mentors to balance out.
-
+   There are not enough mentors to train the next generation. If the pewlett hackard attempts to fill vacancies with the 1549 eligible mentors, there would be a 46:1 mentor and mentee ratio, I would recommend expanding the eligibility date for mentors to increase the number of mentors.
+   
 # Two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 A table showing employees eligible for retirement soon based on the birth date between  Jan 1962 and Dec 1964.
