@@ -7,7 +7,7 @@ This project aims to derive a list of all retiring employees and their titles an
 
 * Employees with senior engineer titles have the highest amount of retiring employees.
 * Employees with manager titles have the least amount of retiring employees.
-* 72,458 employees are retiring based on the birth dates from Jan 1952 and Dec 1955.
+* 72,458 employees are retiring based on the birth dates from Jan 1952 to Dec 1955.
 
 <img width="213" alt="Screen Shot 2022-04-15 at 3 11 46 PM" src="https://user-images.githubusercontent.com/100738688/163622504-5f0a0911-4300-4824-a9c6-f30a8522dc9a.png">
 
